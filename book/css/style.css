@@ -1,0 +1,9 @@
+body {
+    background-color: #f4f1e8;
+  }
+
+  .navbar-brand {
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 650;
+  }
